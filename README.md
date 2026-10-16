@@ -1,5 +1,6 @@
 # Cookie Clicker Downloadable HTML
 <br><br>
+FORK SOURCED FROM Sushi8756's REPO
 Cookie Clicker source code for educational purposes. <br>
 Which also includes some spicy mod tabs and standalone window support. <br>
 Download and extract from the "Releases" section.<br>
